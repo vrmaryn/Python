@@ -10,9 +10,9 @@ age = 250
 is_married = True
 skills = ['HTML', 'CSS', 'JS', 'React', 'Python']
 person_info = {
-    'firstname':'Asabeneh', 
-    'lastname':'Yetayeh', 
-    'country':'Finland',
+    'firstname':'Aryan', 
+    'lastname':'Verma', 
+    'country':'India',
     'city':'Helsinki'
     }
 
