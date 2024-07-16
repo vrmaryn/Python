@@ -12,7 +12,7 @@ By default, statements in Python script are executed sequentially from top to bo
 
 In python and other programming languages the key word _if_ is used to check if a condition is true and to execute the block code. Remember the indentation after the colon.
 
-```py
+
 # syntax
 if condition:
     this part of code runs for truthy conditions
@@ -33,7 +33,7 @@ As you can see in the example above, 3 is greater than 0. The condition was true
 
 If condition is true the first block will be executed, if not the else condition will run.
 
-```py
+
 # syntax
 if condition:
     this part of code runs for truthy conditions
