@@ -5,9 +5,7 @@ Python is an object oriented programming language. Everything in Python is an ob
 
 We have been working with classes and objects right from the beginning of this challenge unknowingly. Every element in a Python program is an object of a class. Let us check if everything in python is a class:
 
-asabeneh@Asabeneh:~$ python
-Python 3.9.6 (default, Jun 28 2021, 15:26:21)
-[Clang 11.0.0 (clang-1100.0.33.8)] on darwin
+
 Type "help", "copyright", "credits" or "license" for more information.
 >>> num = 10
 >>> type(num)
