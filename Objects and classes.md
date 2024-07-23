@@ -53,11 +53,11 @@ class Person:
         # self allows to attach parameter to the class
           self.name =name
 
-p = Person('Asabeneh')
+p = Person('Aryan')
 print(p.name)
 print(p)
 # output
-Asabeneh
+Aryan
 <__main__.Person object at 0x2abf46907e80>
 Let us add more parameters to the constructor function.
 
