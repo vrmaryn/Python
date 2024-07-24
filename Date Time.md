@@ -3,7 +3,6 @@
 ## Python *datetime*
 
 Python has got _datetime_ module to handle date and time.
-
 ```py
 import datetime
 print(dir(datetime))
@@ -12,7 +11,7 @@ print(dir(datetime))
 
 With dir or help built-in commands it is possible to know the available functions in a certain module. As you can see, in the datetime module there are many functions, but we will focus on _date_, _datetime_, _time_ and _timedelta_. Let se see them one by one.
 
-### Getting *datetime* Information
+# Getting *datetime* Information
 
 ```py
 from datetime import datetime
@@ -32,7 +31,7 @@ print(f'{day}/{month}/{year}, {hour}:{minute}')  # 8/7/2021, 7:38
 
 Timestamp or Unix timestamp is the number of seconds elapsed from 1st of January 1970 UTC.
 
-### Formatting Date Output Using *strftime*
+## Formatting Date Output Using *strftime*
 
 ```py
 from datetime import datetime
@@ -48,7 +47,6 @@ print(day, month, year, hour, minute) #1 1 2020 0 0
 print(f'{day}/{month}/{year}, {hour}:{minute}')  # 1/1/2020, 0:0
 
 ```
-
 Formatting date time using *strftime* method and the documentation can be found [here](https://strftime.org/).
 
 ```py
