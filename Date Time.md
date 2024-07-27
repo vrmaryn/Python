@@ -71,7 +71,7 @@ time two: 05/12/2019, 01:05:01
 
 Here are all the _strftime_ symbols we use to format time. An example of all the formats for this module.
 
-![strftime](../images/strftime.png)
+
 
 ### String to Time Using *strptime*
 Here is a [documentation](https://www.programiz.com/python-programming/datetime/strptimet) hat helps to understand the format. 
@@ -127,7 +127,7 @@ b = 10:30:50
 c = 10:30:50  
 d = 10:30:50.200555
 
-### Difference Between Two Points in Time Using
+### Difference Between Two Points in Time 
 
 ```py
 today = date(year=2019, month=12, day=5)
